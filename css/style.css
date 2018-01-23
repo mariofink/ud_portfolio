@@ -6,3 +6,10 @@
   height: 6rem;
   width: 6rem;
 }
+
+.site-hero {
+  border-top: 1px solid #dbdbdb;
+  border-bottom: 1px solid #dbdbdb;
+  margin: 1.5rem 0;
+  padding: 1.5rem 0;
+}
